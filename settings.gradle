@@ -1,2 +1,2 @@
-include ':app', ':qqzone', ':loginbutton', ':startgamebutton', ':radiobutton', ':checkbox', ':horizontalprogressbar'
+include ':app', ':qqzone', ':loginbutton', ':startgamebutton', ':radiobutton', ':checkbox', ':horizontalprogressbar', ':seekbar', ':imageview', ':qqalbum', ':spinner'
 rootProject.name='Basic UI Components'
