@@ -1,0 +1,2 @@
+include ':app', ':qqzone', ':loginbutton', ':startgamebutton'
+rootProject.name='Basic UI Components'

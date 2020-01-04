@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    设置填充色-->
+    <solid android:color="#1fbaf3"/>
+<!--    设置4个角的弧形半径-->
+    <corners android:radius="5dp" />
+<!--    设置文字与按钮边界的间隔-->
+    <padding
+        android:bottom="10dp"
+        android:left="10dp"
+        android:right="10dp"
+        android:top="10dp" />
+
+</shape>
